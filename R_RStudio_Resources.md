@@ -5,6 +5,8 @@ Download and install [R](https://www.r-project.org/)
 
 Download and install [RStudio](https://www.rstudio.com/products/rstudio/download/)
 
+[RStudio's own on-line learning Resources: R Programming, R Markdown, Shiny, Data Science ](https://www.rstudio.com/online-learning/#r-programming)
+
 R for Hockey Analysis(in 3 Steps) [On-line tutorial with practical applications](https://towardsdatascience.com/r-for-hockey-analysis-part-2-tidyverse-basics-5caf63aea5a5)
 
 On-line Learning MOOCs (Massive Open On-line Courses)
