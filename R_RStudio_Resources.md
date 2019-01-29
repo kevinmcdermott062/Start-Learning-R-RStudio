@@ -46,7 +46,12 @@ Podcast
 
 [Roger Peng Podcast on Data Science and the Environment](https://www.datacamp.com/community/podcast/data-science-environment-moocs)
 
-Keep Updated with R developments
+Keep Updated with R Developments
 ================================
 
 [Keep up to date with these information sources](https://masalmon.eu/2019/01/25/uptodate/)
+
+Version control with Git and RStudio
+====================================
+
+[Git Version control](https://jennybc.github.io/2014-05-12-ubc/ubc-r/session03_git.html)
