@@ -5,8 +5,6 @@ Download and install [R](https://www.r-project.org/)
 
 Download and install [RStudio](https://www.rstudio.com/products/rstudio/download/)
 
-R for Hockey Analysis(in 3 Steps) [On-line tutorial with practical applications](https://towardsdatascience.com/r-for-hockey-analysis-part-2-tidyverse-basics-5caf63aea5a5)
-
 On-line Learning MOOCs (Massive Open On-line Courses)
 =====================================================
 
@@ -27,6 +25,8 @@ Reference Books
 
 On-line Resources
 =================
+
+R for Hockey Analysis(in 3 Steps) [On-line tutorial with practical applications](https://towardsdatascience.com/r-for-hockey-analysis-part-2-tidyverse-basics-5caf63aea5a5)
 
 [Tidyverse](https://www.tidyverse.org/)
 
@@ -57,8 +57,3 @@ Version control with Git and RStudio
 ====================================
 
 [Git Version control](https://jennybc.github.io/2014-05-12-ubc/ubc-r/session03_git.html)
-
-Reference Book Covers
-=====================
-
-![alt text](Beyond%20Spreadsheets%20with%20R.GIF) ![alt text](R4DS.GIF) ![alt text](ggplot2.GIF)
