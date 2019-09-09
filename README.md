@@ -1,7 +1,7 @@
 R/RStudio Resources for getting started learning R
 ================
 
-[RStudio Cloud](https://rstudio.cloud/) for rapid learning without installing any software. complete with interactive R tutorial [primers](https://rstudio.cloud/learn/primers).
+[RStudio Cloud](https://rstudio.cloud/) for rapid learning without installing any software. Complete with interactive R tutorial [primers](https://rstudio.cloud/learn/primers).
 
 **Or**
 
