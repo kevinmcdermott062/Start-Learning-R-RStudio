@@ -75,3 +75,5 @@ Version control with Git and RStudio
 ====================================
 
 [Git Version control](https://jennybc.github.io/2014-05-12-ubc/ubc-r/session03_git.html)
+
+[Happy Git and GitHub for the useR](https://happygitwithr.com/rstudio-git-github.html)
